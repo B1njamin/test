@@ -7,7 +7,7 @@ export default function App() {
   return (
     <SafeAreaProvider>
       <SafeAreaView style={{ backgroundColor: "#2D6A4F", flex: 1 }}>
-        <Text style= {s.grandtitre}>Smartcattle</Text>
+        <Text style={s.grandtitre}>Smartcattle</Text>
       </SafeAreaView>
     </SafeAreaProvider>
   );
